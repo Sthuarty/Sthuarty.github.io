@@ -614,3 +614,7 @@ header .downlad-btn:hover {
     padding: 30px 0;
     background: #fff;
 }
+
+.purple-footer {
+    background: #28023D !important;
+}
