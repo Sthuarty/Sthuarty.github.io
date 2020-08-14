@@ -618,3 +618,15 @@ header .downlad-btn:hover {
 .purple-footer {
     background: #28023D !important;
 }
+
+
+/* ---------------------------------
+ VIDEO
+--------------------------------- */
+
+.video-class {
+    margin: 0 auto;
+    display: block;
+    width: 700px;
+    height: 394px;
+}

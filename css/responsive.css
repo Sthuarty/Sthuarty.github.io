@@ -95,6 +95,13 @@
     .education-wrapper .education:after {
         display: none;
     }
+    /* ---------------------------------
+	VIDEO
+    --------------------------------- */
+    .video-class {
+        width: 540px;
+        height: 304px;
+    }
 }
 
 
@@ -114,13 +121,28 @@
     .portfolio-section .p-item {
         width: 100%;
     }
+    /* ---------------------------------
+	VIDEO
+    --------------------------------- */
+    .video-class {
+        width: 460px;
+        height: 259px;
+    }
 }
 
 
 /* Screens Resolution : 479px
 -------------------------------------------------------------------------- */
 
-@media only screen and (max-width: 479px) {}
+@media only screen and (max-width: 479px) {
+    /* ---------------------------------
+	VIDEO
+    --------------------------------- */
+    .video-class {
+        width: 340px;
+        height: 191px;
+    }
+}
 
 
 /* Screens Resolution : 359px
@@ -138,6 +160,13 @@
     }
     header .info .right-area {
         margin-left: 35px;
+    }
+    /* ---------------------------------
+	VIDEO
+    --------------------------------- */
+    .video-class {
+        width: 275px;
+        height: 155px;
     }
 }
 
